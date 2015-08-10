@@ -1,0 +1,42 @@
+# Make keys in CWM repeatable
+ro.cwm.enable_key_repeat=true
+
+# THIS NEEDS TO BE CLEANED UP
+ro.config.mmu_en=1
+dalvik.vm.heapsize=256m
+ro.opengles.version=196609
+ro.sf.lcd_density=480
+hw.lcd.density=480
+dalvik.vm.checkjni=false
+sys.config.jankenable=true
+persist.sys.strictmode.disable=true
+ro.bt.bdaddr_path=/data/misc/bluedroid/macbt
+ro.config.keypasstouser=true
+ro.config.hw_navigationbar=true
+ro.config.hw_sensorhub=true
+ro.balong_debug.port_num=8
+ro.product.platform.pseudonym=1ARB9CV
+ro.hwui.texture_cache_size=48
+ro.hwui.texture_cache_flushrate=0.4
+ro.hwui.layer_cache_size=48
+ro.hwui.path_cache_size=32
+ro.hwui.shape_cache_size=2
+ro.hwui.drop_shadow_cache_size=6
+ro.hwui.gradient_cache_size=1
+ro.hwui.text_large_cache_height=1024
+ro.hwui.text_large_cache_width=2048
+ro.hwui.text_small_cache_height=1024
+ro.hwui.text_small_cache_width=1024
+ro.hwui.r_buffer_cache_size=8
+debug.hwui.render_dirty_regions=false
+sys.refresh.dirty=1
+ro.config.hw_music_lp=true
+keyguard.no_require_sim=true
+bastet.service.enable=true
+ro.config.hw_emerg=on
+ro.sys.umsdirtyratio=2
+ro.product.cpuinfo.normal=Hisilicon Kirin 925
+ro.product.cpuinfo.high=Hisilicon Kirin 925
+ro.product.cpuinfo.highhigh=Hisilicon Kirin 925
+
+
